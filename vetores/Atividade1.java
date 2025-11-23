@@ -1,7 +1,7 @@
 package vetor;
 import java.util.Scanner;
 
-public class At1SeparacaoParImpar {
+public class Atividade1 {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner (System.in);
