@@ -1,7 +1,7 @@
 package vetor;
 import java.util.Scanner;
 
-public class Inverso {
+public class Invertido {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
