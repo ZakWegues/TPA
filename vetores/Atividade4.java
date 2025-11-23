@@ -1,7 +1,7 @@
 package vetor;
 
 import java.util.Scanner;
-public class At4RelacaoPar {
+public class Atividade4 {
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner (System.in);
